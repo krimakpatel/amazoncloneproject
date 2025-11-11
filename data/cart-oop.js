@@ -1,3 +1,4 @@
+// Object-Oriented Programming = organizing our code into objects 
 // oop makes a easy to create multiple objects 
 
 function Cart (localStorageKey) {
